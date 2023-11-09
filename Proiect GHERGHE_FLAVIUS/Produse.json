@@ -1,0 +1,9 @@
+[{
+  "Nume": "test",
+  "Categorie": "Test",
+  "Cantitate": "12",
+  "PretCumparare": "14",
+  "PretVanzare": "13",
+  "Data": "sâmbătă, 6 mai 2023",
+  "Furnizori": "Test3"
+},{"Nume":"test2","Categorie":"Test","Cantitate":"12","PretCumparare":"14","PretVanzare":"13","Data":"sâmbătă, 6 mai 2023","Furnizori":"Test5"}]

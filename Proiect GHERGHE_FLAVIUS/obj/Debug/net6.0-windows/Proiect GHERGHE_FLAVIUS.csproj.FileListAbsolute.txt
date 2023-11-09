@@ -1,0 +1,79 @@
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.exe
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.deps.json
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.runtimeconfig.json
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.pdb
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.csproj.AssemblyReference.cache
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Form1.resources
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Login.resources
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Properties.Resources.resources
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Stocuri.resources
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.csproj.GenerateResource.cache
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.AssemblyInfoInputs.cache
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.AssemblyInfo.cs
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.csproj.CoreCompileInputs.cache
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\refint\Proiect GHERGHE_FLAVIUS.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.pdb
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.genruntimeconfig.cache
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\ref\Proiect GHERGHE_FLAVIUS.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.csproj.CopyComplete
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Clienti.resources
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Furnizori.resources
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Categorii.resources
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Comenzi.resources
+C:\Users\EvilNeverDies\source\repos\Proiect GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Dashboard.resources
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.exe
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.deps.json
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.runtimeconfig.json
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.pdb
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.csproj.AssemblyReference.cache
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Categorii.resources
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Clienti.resources
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Comenzi.resources
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Dashboard.resources
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Form1.resources
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Furnizori.resources
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Login.resources
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Properties.Resources.resources
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect_GHERGHE_FLAVIUS.Stocuri.resources
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.csproj.GenerateResource.cache
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.AssemblyInfoInputs.cache
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.AssemblyInfo.cs
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.csproj.CoreCompileInputs.cache
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.csproj.CopyComplete
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\refint\Proiect GHERGHE_FLAVIUS.dll
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.pdb
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\Proiect GHERGHE_FLAVIUS.genruntimeconfig.cache
+D:\facultate\TTV\Proiect JSON GHERGHE_FLAVIUS\Proiect GHERGHE_FLAVIUS\obj\Debug\net6.0-windows\ref\Proiect GHERGHE_FLAVIUS.dll
